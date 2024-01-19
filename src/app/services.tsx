@@ -1,9 +1,9 @@
-import React from 'react'
+import React from "react";
 
 export default function Services() {
   return (
-    <div>
-          <div className="text-emerald-300 text-3xl font-semibold self-center whitespace-nowrap mt-24 max-md:mt-10">
+    <>
+      <div className="text-emerald-300 text-3xl font-semibold self-center whitespace-nowrap mt-24 max-md:mt-10">
         Our Services{" "}
       </div>
       <div className="text-neutral-950 text-center text-6xl font-semibold max-w-[695px] self-center mt-6 max-md:max-w-full max-md:text-4xl">
@@ -116,6 +116,6 @@ export default function Services() {
           </div>
         </div>
       </div>{" "}
-    </div>
-  )
+    </>
+  );
 }
