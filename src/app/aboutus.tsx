@@ -3,7 +3,7 @@
 export default function AboutUs() {
   return (
    <>
-       <div className="bg-neutral-950 self-stretch flex w-full flex-col justify-center items-center mt-28 px-16 py-12 max-md:max-w-full max-md:mt-10 max-md:px-5">
+       <div className="bg-neutral-950 self-stretch flex container mx-auto rounded-xl flex-col justify-center items-center mt-28 px-16 py-12 max-md:max-w-full max-md:mt-10 max-md:px-5">
         <div className="w-full max-w-[1400px] my-12 max-md:max-w-full max-md:my-10">
           <div className="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
             <div className="flex flex-col items-stretch w-[56%] max-md:w-full max-md:ml-0">

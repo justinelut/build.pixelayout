@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Process() {
   return (
-    <span className="self-center flex w-full max-w-[1660px] flex-col items-center mt-28 px-5 max-md:max-w-full max-md:mt-10">
+    <span className="self-center flex container mx-auto flex-col items-center mt-28 px-5 max-md:max-w-full max-md:mt-10">
     <span className="items-center flex w-[676px] max-w-full flex-col pb-2.5 px-6 max-md:px-5">
       <div className="text-emerald-300 text-center text-3xl font-semibold whitespace-nowrap">
         Process
